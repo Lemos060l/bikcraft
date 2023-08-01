@@ -4,21 +4,19 @@ body {
   color: #111111;
   padding-bottom: 600px;
 }
-
 h1,
 h2,
 h3,
 h4,
-ul {
+ul,
+p,
+blockquote {
   margin: 0px;
-  padding: 0px;
-  list-style: none;
 }
 
-h1,
-ul,
-p {
-  margin: 0px;
+ul {
+  padding: 0px;
+  list-style: none;
 }
 
 a {
