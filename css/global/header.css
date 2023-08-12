@@ -2,6 +2,10 @@
   background-color: var(--cor-12);
 }
 
+.header img {
+  width: 136;
+  height: 32;
+}
 .header {
   flex-wrap: wrap;
   gap: 20px;
